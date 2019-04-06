@@ -1,0 +1,67 @@
+{
+  "Id": "lock_stage",
+  "MapName": "Lock Maze",
+  "MapFile": "map.map",
+  "LockItems": [
+    { 
+      "Position": 
+      {
+        "X": 3,
+        "Y": 5
+      },
+      "UnlockPosition":
+      {
+        "X": 1,
+        "Y": 5
+      }
+    },
+    { 
+      "Position": 
+      {
+        "X": 3,
+        "Y": 3
+      },
+      "UnlockPosition":
+      {
+        "X": 5,
+        "Y": 5
+      }
+    },
+    { 
+      "Position": 
+      {
+        "X": 8,
+        "Y": 3
+      },
+      "UnlockPosition":
+      {
+        "X": 7,
+        "Y": 5
+      }
+    },
+    { 
+      "Position": 
+      {
+        "X": 8,
+        "Y": 1
+      },
+      "UnlockPosition":
+      {
+        "X": 9,
+        "Y": 5
+      }
+    },
+    { 
+      "Position": 
+      {
+        "X": 5,
+        "Y": 1
+      },
+      "UnlockPosition":
+      {
+        "X": 9,
+        "Y": 1
+      }
+    }
+  ]
+}

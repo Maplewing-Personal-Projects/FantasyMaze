@@ -1,0 +1,103 @@
+{
+  "Id": "transport_stage",
+  "MapName": "Transport Maze",
+  "MapFile": "map.map",
+  "TransportItems": [
+    { 
+      "Position": 
+      {
+        "X": 1,
+        "Y": 1
+      },
+      "TransportPosition":
+      {
+        "X": 3,
+        "Y": 3
+      }
+    },
+    { 
+      "Position": 
+      {
+        "X": 3,
+        "Y": 3
+      },
+      "TransportPosition":
+      {
+        "X": 1,
+        "Y": 1
+      }
+    },
+    { 
+      "Position": 
+      {
+        "X": 3,
+        "Y": 5
+      },
+      "TransportPosition":
+      {
+        "X": 5,
+        "Y": 4
+      }
+    },
+    { 
+      "Position": 
+      {
+        "X": 5,
+        "Y": 4
+      },
+      "TransportPosition":
+      {
+        "X": 3,
+        "Y": 5
+      }
+    },
+    { 
+      "Position": 
+      {
+        "X": 9,
+        "Y": 1
+      },
+      "TransportPosition":
+      {
+        "X": 7,
+        "Y": 3
+      }
+    },
+    { 
+      "Position": 
+      {
+        "X": 7,
+        "Y": 3
+      },
+      "TransportPosition":
+      {
+        "X": 9,
+        "Y": 1
+      }
+    },
+    { 
+      "Position": 
+      {
+        "X": 7,
+        "Y": 5
+      },
+      "TransportPosition":
+      {
+        "X": 5,
+        "Y": 2
+      }
+    },
+    { 
+      "Position": 
+      {
+        "X": 5,
+        "Y": 2
+      },
+      "TransportPosition":
+      {
+        "X": 7,
+        "Y": 5
+      }
+    }
+  ]
+}
